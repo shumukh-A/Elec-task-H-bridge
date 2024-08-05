@@ -1,5 +1,4 @@
 # Elec-task-H-bridge
-# Introduction 
 
 # components
 Arduino Uno.
